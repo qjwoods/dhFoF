@@ -13,15 +13,15 @@
             "id": "https://qjwoods.github.io/dhFoF/test-5.html",
             "url": "https://qjwoods.github.io/dhFoF/test-5.html",
             "title": "Introduction / Start Here",
-            "summary": " // ",
-            "content_html": "<div id=\"viz1575462434895\" class=\"tableauPlaceholder\" style=\"position: relative;\"><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Fires_DH1&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class=\"tableauViz\" style=\"display: none;\" width=\"300\" height=\"150\"><param name=\"host_url\" value=\"https%3A%2F%2Fpublic.tableau.com%2F\" /> <param name=\"embed_code_version\" value=\"3\" /> <param name=\"site_root\" value=\"\" /><param name=\"name\" value=\"Fires_DH1/Sheet2\" /><param name=\"tabs\" value=\"no\" /><param name=\"toolbar\" value=\"yes\" /><param name=\"static_image\" value=\"https://public.tableau.com/static/images/Fi/Fires_DH1/Sheet2/1.png\" /> <param name=\"animate_transition\" value=\"yes\" /><param name=\"display_static_image\" value=\"yes\" /><param name=\"display_spinner\" value=\"yes\" /><param name=\"display_overlay\" value=\"yes\" /><param name=\"display_count\" value=\"yes\" /></object></div>\n<script type=\"text/javascript\">// <![CDATA[\nvar divElement = document.getElementById('viz1575462434895');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);\n// ]]></script>",
+            "summary": "Continue to The State of Fire in the Union",
+            "content_html": "<a href=\"https://qjwoods.github.io/dhFoF/total-fires-09-19.html\">Continue to The State of Fire in the Union</a>",
             "author": {
                 "name": "Quentin Woods"
             },
             "tags": [
             ],
             "date_published": "2019-12-04T04:27:52-08:00",
-            "date_modified": "2019-12-12T22:53:50-08:00"
+            "date_modified": "2019-12-13T12:26:14-08:00"
         }
     ]
 }
